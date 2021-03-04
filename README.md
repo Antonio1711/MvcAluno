@@ -3,3 +3,5 @@ Repositório com o projeto da tarefa 2, onde desenvolvi um CRUD com ASP.NET Core
 
 # Status: 
 ✔ Concluído
+
+Aula de H0 11 do dia 4 de março de 2021, curso de desenvolvimento de sistemas, SENAI Suíço-Brasileiro Ernesto Tolle.
